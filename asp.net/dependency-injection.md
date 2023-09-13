@@ -4,7 +4,7 @@ As applications begin to be built out and as code bases begin to increase in com
 
  
 
-Now What is Dependency Injection?
+### Now What is Dependency Injection?
 Luckily for us Dependency Injection sounds scarier than it actually is. On a simple level Dependency injection is when you have a piece of code that uses another piece of code and instead of using that code directly it's passed in to that code instead. This process of passing in code is what is referred to as injection.
 
 If this is all still a little fuzzy that's alright. Before being able to fully understand what Dependency Injection is, Its helpful to understand what Dependency in programming is.
