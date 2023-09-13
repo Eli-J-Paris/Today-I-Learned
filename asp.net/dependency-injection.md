@@ -12,10 +12,10 @@ If this is all still a little fuzzy that's alright. Before being able to fully u
 ### What is it used for?
 Utilizing dependency injection helps create a loosely coupled program vs creating a tightly coupled program. Coupling is a technical term used to describe the level of a relationship between two software components, oftentimes prefixed with either loose or tight.
 
-######Tightly coupled
+###### Tightly coupled
 Is when two or more components interact with one another and must be present and functioning at the same time.
 
-######Loosely coupled 
+###### Loosely coupled 
 Is when components of an application can function independently. They’re detached from one another and are not obligated to rely on each other to perform their respective tasks.
 
 As always there are advantages and disadvantages to designing a tightly or loosely coupled application over the years loosely coupled has become more popular.
