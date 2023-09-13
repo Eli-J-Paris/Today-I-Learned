@@ -41,7 +41,7 @@ As with all things good there is a little bad to be aware of when considering to
 - Has the potential to make code harder to trace and track down because of the separate behavior from its construction.
 
 Further Reading & Movie Night
-https://www.techtarget.com/searchapparchitecture/definition/dependency-injection
-https://www.youtube.com/watch?v=tTJetZj3vg0
-https://nonamesecurity.com/learn/difference-between-tight-and-loose-coupling/
-https://www.youtube.com/watch?v=J1f5b4vcxCQ
+- https://www.techtarget.com/searchapparchitecture/definition/dependency-injection
+- https://www.youtube.com/watch?v=tTJetZj3vg0
+- https://nonamesecurity.com/learn/difference-between-tight-and-loose-coupling/
+- https://www.youtube.com/watch?v=J1f5b4vcxCQ
