@@ -8,6 +8,7 @@ As applications begin to be built out and as code bases begin to increase in com
 Luckily for us Dependency Injection sounds scarier than it actually is. On a simple level Dependency injection is when you have a piece of code that uses another piece of code and instead of using that code directly it's passed in to that code instead. This process of passing in code is what is referred to as injection.
 
 If this is all still a little fuzzy that's alright. Before being able to fully understand what Dependency Injection is, Its helpful to understand what Dependency in programming is.
+<img width="296" alt="image" src="https://github.com/Eli-J-Paris/Today-I-Learned/assets/130601227/e47a7fb9-3c3f-4a1a-b700-40e1c5af1fff">
 
 ### What is it used for?
 Utilizing dependency injection helps create a loosely coupled program vs creating a tightly coupled program. Coupling is a technical term used to describe the level of a relationship between two software components, oftentimes prefixed with either loose or tight.
