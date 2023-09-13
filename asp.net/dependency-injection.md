@@ -9,24 +9,25 @@ Luckily for us Dependency Injection sounds scarier than it actually is. On a sim
 
 If this is all still a little fuzzy that's alright. Before being able to fully understand what Dependency Injection is, Its helpful to understand what Dependency in programming is.
 
-What is it used for?
+### What is it used for?
 Utilizing dependency injection helps create a loosely coupled program vs creating a tightly coupled program. Coupling is a technical term used to describe the level of a relationship between two software components, oftentimes prefixed with either loose or tight.
 
-Tightly coupled
+######Tightly coupled
 Is when two or more components interact with one another and must be present and functioning at the same time.
 
-Loosely coupled 
+######Loosely coupled 
 Is when components of an application can function independently. They’re detached from one another and are not obligated to rely on each other to perform their respective tasks.
 
 As always there are advantages and disadvantages to designing a tightly or loosely coupled application over the years loosely coupled has become more popular.
 
-What is Dependency in Programming?
+### What is Dependency in Programming?
 
 Simply put, dependency is the relationship between two components where one component is DEPENDENT on the other to work properly. This relationship can be Internal such as a class relying on another class or external such as utilizing third party software. 
 
 If you would like to learn more about dependency check out this article What Are Software Dependencies.
+- https://www.sonatype.com/launchpad/what-are-software-dependencies#:~:text=A%20software%20dependency%20is%20a,application%20depends%20on%20that%20library
 
-To Dependency Inject or to not Dependency Inject?
+### To Dependency Inject or to not Dependency Inject?
 
 Recently dependency injection has become a popular design pattern to follow. Some of the advantages include.
 - More easily maintainable and reusable code.
