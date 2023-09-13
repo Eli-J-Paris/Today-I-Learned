@@ -35,9 +35,10 @@ Recently dependency injection has become a popular design pattern to follow. Som
 -  Can more easily swap out implementation of code for newer or more refined version.
 - Helps make unit testing a bit easier.
 
-As with all things good there is a little bad to be aware of when considering to us dependency injection
-Using this design pattern requires more discipline and effort to implement when developing software.
-Has the potential to make code harder to trace and track down because of the separate behavior from its construction.
+As with all things good there is a little bad to be aware of when considering to us dependency injection.
+
+- Using this design pattern requires more discipline and effort to implement when developing software.
+- Has the potential to make code harder to trace and track down because of the separate behavior from its construction.
 
 Further Reading & Movie Night
 https://www.techtarget.com/searchapparchitecture/definition/dependency-injection
